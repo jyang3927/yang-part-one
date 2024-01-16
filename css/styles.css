@@ -70,8 +70,13 @@ li {
     margin: 7px 0; 
 }
 
-li:hover {
+a:hover {
     color: #ff5c0f; 
+}
+
+a {
+    color: #000;
+    text-decoration: none;
 }
 
 /* images */
