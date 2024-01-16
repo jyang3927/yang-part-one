@@ -45,6 +45,7 @@ button {
     color:  #fff; 
     border: none; 
     width: 100%; 
+    text-align: start;
 }
 button:hover {
     background-color: #ff5c0f;
